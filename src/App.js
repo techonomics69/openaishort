@@ -5,7 +5,7 @@ import OpenAiAPI from "openai-api-node";
 
 import "./styles.css";
 
-const OPEN_AI_API_KEY = "";
+const OPEN_AI_API_KEY = "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";
 
 class Index extends React.Component {
   constructor(props) {
